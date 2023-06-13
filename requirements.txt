@@ -1,0 +1,8 @@
+fastapi
+passlib
+pyjwt
+sqlalchemy
+uvicorn
+bcrypt
+pyyaml
+cryptography
